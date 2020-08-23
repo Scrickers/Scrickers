@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Scrickers/Scrickers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+    <a href="https://discord.gg/HgvSeNR"><img src="https://cdn.discordapp.com/attachments/693389469692461077/747050996836073492/3d39686f1d033328a494d28e2e1d9427.png" width="256px"></a>
+  <br>
+    Scrickers
+  <br>
+ </h1>
+<h4 align="center">Développeur de 17 ans qui adore les animé</h4>
+  <p align="center">
+      <a href="https://discord.gg/En6aXbA" target="_blank"><img src="https://discordapp.com/api/guilds/547442742444163073/embed.png" alt="Discord"></a>
+  </p>
+  
