@@ -4,7 +4,7 @@
     Scrickers
   <br>
  </h1>
-<h4 align="center">Développeur de 17 ans qui adore les animé</h4>
+<h4 align="center">Développeur de 19 ans qui adore les animé</h4>
   <p align="center">
       <a href="https://discord.gg/En6aXbA" target="_blank"><img src="https://discordapp.com/api/guilds/547442742444163073/embed.png" alt="Discord"></a>
   </p>
