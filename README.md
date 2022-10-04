@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://discord.gg/HgvSeNR"><img src="https://cdn.discordapp.com/attachments/693389469692461077/747050996836073492/3d39686f1d033328a494d28e2e1d9427.png" width="256px"></a>
+    <a href="https://discord.gg/HgvSeNR"><img src="https://cdn.discordapp.com/avatars/328892873699360772/d9488eb44610c80f46fb9270661b15d7.jpg" width="256px"></a>
   <br>
     Scrickers
   <br>
